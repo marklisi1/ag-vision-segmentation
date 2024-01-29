@@ -1,4 +1,5 @@
-README
+In this project, we apply an implementation of U-Net to the Agriculture-Vision-2021 dataset, a massive image dataset containing aerial photos of crops. 
+[You can read the paper here!](CV_Final_Project.pdf)
 
 The notebook "testing-results.ipynb" contains everything you need to reproduce the results
 from my report. Simply open the notebook in a directory containing the folders "ml_test_images",
